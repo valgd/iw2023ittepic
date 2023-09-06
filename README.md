@@ -27,3 +27,18 @@ touch .gitignore
 touch 1.txt
 
 # Creación de Tag
+git tag v1.0
+
+# Subir cambios
+git add .
+git commit -m "segundo commit"
+git push -u origin main
+
+# Crear tabla con datos de 5 compañeros
+| Nombre | Github |
+| --- | --- |
+| DE ROBLES RAMIREZ MIGUEL ISRAEL | https://github.com/MDeRobles |
+| LÓPEZ RAMOS VICTOR DANIEL | https://github.com/dloram15 |
+| MEDINA RODRÍGUEZ SEBASTIÁN JAZAEL | https://github.com/SebastianMedina2023 |
+| PACHECO ROSALES VICTOR MANUEL | https://github.com/XxXelbichoXxX |
+| RAZON MACHAIN BRYAN PAUL | https://github.com/PaulRazon |
